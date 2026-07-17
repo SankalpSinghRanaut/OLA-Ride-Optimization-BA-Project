@@ -8,7 +8,7 @@
 
 ![Business Analyst](https://img.shields.io/badge/Role-Business%20Analyst-blue?style=for-the-badge)
 ![Methodology](https://img.shields.io/badge/Methodology-Agile%20Scrum-success?style=for-the-badge)
-![Tools](https://img.shields.io/badge/Tools-Jira%20|%20SQL%20|%20PowerBI%20|%20Draw.io-orange?style=for-the-badge)
+![Tools](https://img.shields.io/badge/Tools-Jira%20|%20SQL%20|%20PowerBI%20|%20LucidChart-orange?style=for-the-badge)
 
 </div>
 
@@ -90,13 +90,10 @@ BRD & FRD
 User Stories
         │
         ▼
-Wireframes
-        │
-        ▼
 Jira Sprint Planning
         │
         ▼
-UAT
+       UAT
         │
         ▼
 Expected Business Outcomes
@@ -117,8 +114,6 @@ OLA-Ride-Optimization-Business-Analyst
 ├── Jira/
 │
 ├── Diagrams/
-│
-├── Wireframes/
 │
 ├── SQL/
 │
@@ -152,8 +147,6 @@ OLA-Ride-Optimization-Business-Analyst
 ✅ User Stories
 
 ✅ Acceptance Criteria
-
-✅ Wireframes
 
 ✅ UML Diagrams
 
@@ -234,7 +227,6 @@ Artifacts include:
 - User Stories
 - Story Points
 - Releases
-- Burndown Chart
 - Dashboard
 
 📁 **Folder:** `/Jira`
@@ -245,13 +237,10 @@ Artifacts include:
 
 Included diagrams:
 
-- Context Diagram
 - Use Case Diagram
 - Activity Diagram
 - AS-IS Process
 - TO-BE Process
-- User Journey Map
-- Data Flow Diagram
 
 📁 **Folder:** `/Diagrams`
 
@@ -262,13 +251,10 @@ Included diagrams:
 Excel deliverables include:
 
 - Stakeholder Matrix
-- RACI Matrix
-- MoSCoW Prioritization
 - RTM
 - Product Backlog
 - Sprint Backlog
 - UAT Test Cases
-- Risk Register
 
 📁 **Folder:** `/Business_Analysis_Artifacts`
 
@@ -309,7 +295,6 @@ Excel deliverables include:
 - User Story Writing
 - Acceptance Criteria
 - Gap Analysis
-- Wireframing
 - UAT Planning
 - Documentation
 
@@ -319,7 +304,7 @@ Excel deliverables include:
 
 **Sankalp Singh**
 
-Business Analyst | Data Analyst
+Business Analyst | Data Analytics
 
 ---
 
