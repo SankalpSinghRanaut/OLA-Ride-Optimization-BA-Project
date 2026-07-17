@@ -81,13 +81,13 @@ Requirement Gathering
 Stakeholder Analysis
         │
         ▼
-Gap Analysis
+  Gap Analysis
         │
         ▼
-BRD & FRD
+    BRD & FRD
         │
         ▼
-User Stories
+   User Stories
         │
         ▼
 Jira Sprint Planning
